@@ -1,9 +1,7 @@
-﻿using api.Controllers;
-using api.TransferModels;
+﻿using api.TransferModels;
 using Microsoft.AspNetCore.Mvc.Filters;
 
 using Microsoft.AspNetCore.Mvc;
-using Microsoft.AspNetCore.Mvc.Filters;
 
 namespace api.Filters;
 

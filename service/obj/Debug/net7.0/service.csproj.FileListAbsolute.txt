@@ -1,15 +1,31 @@
-C:\Users\doini\3rd semester\Home_Work_Doina\articles_web_api\service\bin\Debug\net7.0\service.deps.json
-C:\Users\doini\3rd semester\Home_Work_Doina\articles_web_api\service\bin\Debug\net7.0\service.dll
-C:\Users\doini\3rd semester\Home_Work_Doina\articles_web_api\service\bin\Debug\net7.0\service.pdb
-C:\Users\doini\3rd semester\Home_Work_Doina\articles_web_api\service\bin\Debug\net7.0\infrastructure.dll
-C:\Users\doini\3rd semester\Home_Work_Doina\articles_web_api\service\bin\Debug\net7.0\infrastructure.pdb
-C:\Users\doini\3rd semester\Home_Work_Doina\articles_web_api\service\obj\Debug\net7.0\service.csproj.AssemblyReference.cache
-C:\Users\doini\3rd semester\Home_Work_Doina\articles_web_api\service\obj\Debug\net7.0\service.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\doini\3rd semester\Home_Work_Doina\articles_web_api\service\obj\Debug\net7.0\service.AssemblyInfoInputs.cache
-C:\Users\doini\3rd semester\Home_Work_Doina\articles_web_api\service\obj\Debug\net7.0\service.AssemblyInfo.cs
-C:\Users\doini\3rd semester\Home_Work_Doina\articles_web_api\service\obj\Debug\net7.0\service.csproj.CoreCompileInputs.cache
-C:\Users\doini\3rd semester\Home_Work_Doina\articles_web_api\service\obj\Debug\net7.0\service.csproj.CopyComplete
-C:\Users\doini\3rd semester\Home_Work_Doina\articles_web_api\service\obj\Debug\net7.0\service.dll
-C:\Users\doini\3rd semester\Home_Work_Doina\articles_web_api\service\obj\Debug\net7.0\refint\service.dll
-C:\Users\doini\3rd semester\Home_Work_Doina\articles_web_api\service\obj\Debug\net7.0\service.pdb
-C:\Users\doini\3rd semester\Home_Work_Doina\articles_web_api\service\obj\Debug\net7.0\ref\service.dll
+C:/Users/doini/3rd semester/Home_Work_Doina/articles_web_api/service/bin/Debug/net7.0/service.deps.json
+C:/Users/doini/3rd semester/Home_Work_Doina/articles_web_api/service/bin/Debug/net7.0/service.dll
+C:/Users/doini/3rd semester/Home_Work_Doina/articles_web_api/service/bin/Debug/net7.0/service.pdb
+C:/Users/doini/3rd semester/Home_Work_Doina/articles_web_api/service/bin/Debug/net7.0/infrastructure.dll
+C:/Users/doini/3rd semester/Home_Work_Doina/articles_web_api/service/bin/Debug/net7.0/infrastructure.pdb
+C:/Users/doini/3rd semester/Home_Work_Doina/articles_web_api/service/obj/Debug/net7.0/service.csproj.AssemblyReference.cache
+C:/Users/doini/3rd semester/Home_Work_Doina/articles_web_api/service/obj/Debug/net7.0/service.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/doini/3rd semester/Home_Work_Doina/articles_web_api/service/obj/Debug/net7.0/service.AssemblyInfoInputs.cache
+C:/Users/doini/3rd semester/Home_Work_Doina/articles_web_api/service/obj/Debug/net7.0/service.AssemblyInfo.cs
+C:/Users/doini/3rd semester/Home_Work_Doina/articles_web_api/service/obj/Debug/net7.0/service.csproj.CoreCompileInputs.cache
+C:/Users/doini/3rd semester/Home_Work_Doina/articles_web_api/service/obj/Debug/net7.0/service.csproj.CopyComplete
+C:/Users/doini/3rd semester/Home_Work_Doina/articles_web_api/service/obj/Debug/net7.0/service.dll
+C:/Users/doini/3rd semester/Home_Work_Doina/articles_web_api/service/obj/Debug/net7.0/refint/service.dll
+C:/Users/doini/3rd semester/Home_Work_Doina/articles_web_api/service/obj/Debug/net7.0/service.pdb
+C:/Users/doini/3rd semester/Home_Work_Doina/articles_web_api/service/obj/Debug/net7.0/ref/service.dll
+/Users/simko/Desktop/Desktop/Development/news-api/service/bin/Debug/net7.0/service.deps.json
+/Users/simko/Desktop/Desktop/Development/news-api/service/bin/Debug/net7.0/service.dll
+/Users/simko/Desktop/Desktop/Development/news-api/service/bin/Debug/net7.0/service.pdb
+/Users/simko/Desktop/Desktop/Development/news-api/service/bin/Debug/net7.0/infrastructure.dll
+/Users/simko/Desktop/Desktop/Development/news-api/service/bin/Debug/net7.0/infrastructure.pdb
+/Users/simko/Desktop/Desktop/Development/news-api/service/obj/Debug/net7.0/service.csproj.AssemblyReference.cache
+/Users/simko/Desktop/Desktop/Development/news-api/service/obj/Debug/net7.0/service.GeneratedMSBuildEditorConfig.editorconfig
+/Users/simko/Desktop/Desktop/Development/news-api/service/obj/Debug/net7.0/service.AssemblyInfoInputs.cache
+/Users/simko/Desktop/Desktop/Development/news-api/service/obj/Debug/net7.0/service.AssemblyInfo.cs
+/Users/simko/Desktop/Desktop/Development/news-api/service/obj/Debug/net7.0/service.csproj.CoreCompileInputs.cache
+/Users/simko/Desktop/Desktop/Development/news-api/service/obj/Debug/net7.0/service.sourcelink.json
+/Users/simko/Desktop/Desktop/Development/news-api/service/obj/Debug/net7.0/service.csproj.CopyComplete
+/Users/simko/Desktop/Desktop/Development/news-api/service/obj/Debug/net7.0/service.dll
+/Users/simko/Desktop/Desktop/Development/news-api/service/obj/Debug/net7.0/refint/service.dll
+/Users/simko/Desktop/Desktop/Development/news-api/service/obj/Debug/net7.0/service.pdb
+/Users/simko/Desktop/Desktop/Development/news-api/service/obj/Debug/net7.0/ref/service.dll

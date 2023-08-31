@@ -11,7 +11,5 @@ public class UpdateArticleRequest
     public string Body { get; set; }
     public string Author { get; set; }
     public string ArticleImgUrl { get; set; }
-
-
-   
+    
 }

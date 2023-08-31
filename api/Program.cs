@@ -21,20 +21,18 @@ if (builder.Environment.IsProduction())
 builder.Services.AddSingleton<ArticleRepository>();
 builder.Services.AddSingleton<ArticlesService>();
 
-
-
 builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
 builder.Services.AddCors(options =>
 {
-    options.AddPolicy("AllowOrigin", 
-        corsPolicyBuilder =>
-        corsPolicyBuilder.AllowAnyOrigin()
-            .AllowAnyHeader()
-            .AllowAnyMethod()
-    );
+    options.AddPolicy("AllowOrigin",
+        builder =>
+            builder
+                .AllowAnyOrigin()
+                .AllowAnyMethod()
+                .AllowAnyHeader());
 });
 
 var app = builder.Build();
