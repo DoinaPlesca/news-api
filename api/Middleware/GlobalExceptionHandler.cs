@@ -1,6 +1,5 @@
 ﻿using System.ComponentModel.DataAnnotations;
 using System.Security.Authentication;
-using api.Controllers;
 using api.TransferModels;
 
 namespace api.Middleware;
@@ -56,21 +55,16 @@ public class GlobalExceptionHandler
             http.Response.StatusCode = StatusCodes.Status403Forbidden;
         }
         else if (exception is NotSupportedException ||
-                 exception is NotImplementedException) 
+                 exception is NotImplementedException)
         {
             http.Response.StatusCode = StatusCodes.Status501NotImplemented;
-            return http.Response.WriteAsJsonAsync(new ResponseDto()
-                { MessageToClient = "Unable to process request" });
+            return http.Response.WriteAsJsonAsync(new { messageToClient = "Unable to process request" });
         }
         else
         {
             http.Response.StatusCode = StatusCodes.Status500InternalServerError;
-            return http.Response.WriteAsJsonAsync(new ResponseDto()
-                { MessageToClient = "Unable to process request" });
+            return http.Response.WriteAsJsonAsync(new { messageToClient = "Unable to process request" });
         }
-        return http.Response.WriteAsJsonAsync(new ResponseDto
-        {
-            MessageToClient = exception.Message
-        });
+        return http.Response.WriteAsJsonAsync(new ResponseDto());
     }
 }

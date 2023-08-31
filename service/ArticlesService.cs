@@ -13,23 +13,29 @@ public class ArticlesService
     {
         _articleRepository = articleRepository;
     }
+    
+    public IEnumerable<ArticleFeedQuery> SearchArticles(string searchDtoSearchTerm, int searchDtoPageSize)
+    {
+        return _articleRepository.SearchArticles(searchDtoSearchTerm, searchDtoPageSize);
+    }
 
     public IEnumerable<ArticleFeedQuery> GetArticlesForFeed()
     {
         return _articleRepository.GetArticlesForFeed();
     }
+    
+    public Article GetArticleById(int articleId)
+    {
+        return _articleRepository.GetArticleById(articleId);
+    }
 
     public Article CreateArticle(string headline, string body, string author,
         string articleImgUrl)
     {
-        var doesArticleExist = _articleRepository.DoesArticleWithHeadlineExist(headline);
-        if (!doesArticleExist)
-        {
-            throw new ValidationException("Article already exist!");
-        }
         return _articleRepository.CreateArticle(headline,body,author, articleImgUrl);
     }
 
+    // needs to be fixed as well :) 
     public Article UpdateArticle( int articleId,string headline, string body, string author,
         string articleImgUrl)
     {
@@ -37,14 +43,9 @@ public class ArticlesService
         
     }
 
-    public void DeleteArticle(int articleId)
+    public bool DeleteArticle(int articleId)
     {
-        var result = _articleRepository.DeleteArticle(articleId);
-        if (!result)
-        {
-            throw new Exception("Could not insert article");
-        }
-        
+        return _articleRepository.DeleteArticle(articleId);
     }
-    
+
 }
