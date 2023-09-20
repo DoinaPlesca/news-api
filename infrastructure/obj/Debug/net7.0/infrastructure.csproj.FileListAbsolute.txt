@@ -23,15 +23,28 @@ C:/Users/doini/3rd semester/Home_Work_Doina/articles_web_api/infrastructure/obj/
 /Users/simko/Desktop/Desktop/Development/news-api/infrastructure/obj/Debug/net7.0/refint/infrastructure.dll
 /Users/simko/Desktop/Desktop/Development/news-api/infrastructure/obj/Debug/net7.0/infrastructure.pdb
 /Users/simko/Desktop/Desktop/Development/news-api/infrastructure/obj/Debug/net7.0/ref/infrastructure.dll
-C:\Users\doini\3rd semester\3rd_semester_exercises-main\news-api\infrastructure\bin\Debug\net7.0\infrastructure.deps.json
-C:\Users\doini\3rd semester\3rd_semester_exercises-main\news-api\infrastructure\bin\Debug\net7.0\infrastructure.dll
-C:\Users\doini\3rd semester\3rd_semester_exercises-main\news-api\infrastructure\bin\Debug\net7.0\infrastructure.pdb
-C:\Users\doini\3rd semester\3rd_semester_exercises-main\news-api\infrastructure\obj\Debug\net7.0\infrastructure.csproj.AssemblyReference.cache
-C:\Users\doini\3rd semester\3rd_semester_exercises-main\news-api\infrastructure\obj\Debug\net7.0\infrastructure.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\doini\3rd semester\3rd_semester_exercises-main\news-api\infrastructure\obj\Debug\net7.0\infrastructure.AssemblyInfoInputs.cache
-C:\Users\doini\3rd semester\3rd_semester_exercises-main\news-api\infrastructure\obj\Debug\net7.0\infrastructure.AssemblyInfo.cs
-C:\Users\doini\3rd semester\3rd_semester_exercises-main\news-api\infrastructure\obj\Debug\net7.0\infrastructure.csproj.CoreCompileInputs.cache
-C:\Users\doini\3rd semester\3rd_semester_exercises-main\news-api\infrastructure\obj\Debug\net7.0\infrastructure.dll
-C:\Users\doini\3rd semester\3rd_semester_exercises-main\news-api\infrastructure\obj\Debug\net7.0\refint\infrastructure.dll
-C:\Users\doini\3rd semester\3rd_semester_exercises-main\news-api\infrastructure\obj\Debug\net7.0\infrastructure.pdb
-C:\Users\doini\3rd semester\3rd_semester_exercises-main\news-api\infrastructure\obj\Debug\net7.0\ref\infrastructure.dll
+C:/Users/doini/3rd semester/3rd_semester_exercises-main/news-api/infrastructure/bin/Debug/net7.0/infrastructure.deps.json
+C:/Users/doini/3rd semester/3rd_semester_exercises-main/news-api/infrastructure/bin/Debug/net7.0/infrastructure.dll
+C:/Users/doini/3rd semester/3rd_semester_exercises-main/news-api/infrastructure/bin/Debug/net7.0/infrastructure.pdb
+C:/Users/doini/3rd semester/3rd_semester_exercises-main/news-api/infrastructure/obj/Debug/net7.0/infrastructure.csproj.AssemblyReference.cache
+C:/Users/doini/3rd semester/3rd_semester_exercises-main/news-api/infrastructure/obj/Debug/net7.0/infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/doini/3rd semester/3rd_semester_exercises-main/news-api/infrastructure/obj/Debug/net7.0/infrastructure.AssemblyInfoInputs.cache
+C:/Users/doini/3rd semester/3rd_semester_exercises-main/news-api/infrastructure/obj/Debug/net7.0/infrastructure.AssemblyInfo.cs
+C:/Users/doini/3rd semester/3rd_semester_exercises-main/news-api/infrastructure/obj/Debug/net7.0/infrastructure.csproj.CoreCompileInputs.cache
+C:/Users/doini/3rd semester/3rd_semester_exercises-main/news-api/infrastructure/obj/Debug/net7.0/infrastructure.dll
+C:/Users/doini/3rd semester/3rd_semester_exercises-main/news-api/infrastructure/obj/Debug/net7.0/refint/infrastructure.dll
+C:/Users/doini/3rd semester/3rd_semester_exercises-main/news-api/infrastructure/obj/Debug/net7.0/infrastructure.pdb
+C:/Users/doini/3rd semester/3rd_semester_exercises-main/news-api/infrastructure/obj/Debug/net7.0/ref/infrastructure.dll
+/Users/simko/Desktop/news-api/infrastructure/bin/Debug/net7.0/infrastructure.deps.json
+/Users/simko/Desktop/news-api/infrastructure/bin/Debug/net7.0/infrastructure.dll
+/Users/simko/Desktop/news-api/infrastructure/bin/Debug/net7.0/infrastructure.pdb
+/Users/simko/Desktop/news-api/infrastructure/obj/Debug/net7.0/infrastructure.csproj.AssemblyReference.cache
+/Users/simko/Desktop/news-api/infrastructure/obj/Debug/net7.0/infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/simko/Desktop/news-api/infrastructure/obj/Debug/net7.0/infrastructure.AssemblyInfoInputs.cache
+/Users/simko/Desktop/news-api/infrastructure/obj/Debug/net7.0/infrastructure.AssemblyInfo.cs
+/Users/simko/Desktop/news-api/infrastructure/obj/Debug/net7.0/infrastructure.csproj.CoreCompileInputs.cache
+/Users/simko/Desktop/news-api/infrastructure/obj/Debug/net7.0/infrastructure.sourcelink.json
+/Users/simko/Desktop/news-api/infrastructure/obj/Debug/net7.0/infrastructure.dll
+/Users/simko/Desktop/news-api/infrastructure/obj/Debug/net7.0/refint/infrastructure.dll
+/Users/simko/Desktop/news-api/infrastructure/obj/Debug/net7.0/infrastructure.pdb
+/Users/simko/Desktop/news-api/infrastructure/obj/Debug/net7.0/ref/infrastructure.dll

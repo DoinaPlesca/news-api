@@ -1,4 +1,5 @@
 
+using api.Helpers;
 using api.Middleware;
 using infrastructure;
 using infrastructure.Repository;
@@ -20,6 +21,7 @@ if (builder.Environment.IsProduction())
 
 builder.Services.AddSingleton<ArticleRepository>();
 builder.Services.AddSingleton<ArticlesService>();
+builder.Services.AddSingleton<ResponseHelper>();
 
 builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();

@@ -1,13 +1,11 @@
 ﻿export class Article {
- headline?: string;
- articleId?: number;
- author?: string;
- body?: string;
- articleImgUrl?: string;
-
+  headline: string;
+  articleId: number;
+  articleImgUrl: string;
+  body: string;
 }
 
 export class ResponseDto<T> {
-  responseDate?: T;
+  responseData: T;
   messageToClient?: string;
 }
