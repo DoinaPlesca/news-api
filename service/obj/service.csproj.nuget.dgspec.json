@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "/Users/simko/Desktop/Desktop/Development/news-api/service/service.csproj": {}
+    "C:\\Users\\doini\\3rd semester\\3rd_semester_exercises-main\\news-api\\service\\service.csproj": {}
   },
   "projects": {
-    "/Users/simko/Desktop/Desktop/Development/news-api/infrastructure/infrastructure.csproj": {
+    "C:\\Users\\doini\\3rd semester\\3rd_semester_exercises-main\\news-api\\infrastructure\\infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/simko/Desktop/Desktop/Development/news-api/infrastructure/infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\doini\\3rd semester\\3rd_semester_exercises-main\\news-api\\infrastructure\\infrastructure.csproj",
         "projectName": "infrastructure",
-        "projectPath": "/Users/simko/Desktop/Desktop/Development/news-api/infrastructure/infrastructure.csproj",
-        "packagesPath": "/Users/simko/.nuget/packages/",
-        "outputPath": "/Users/simko/Desktop/Desktop/Development/news-api/infrastructure/obj/",
+        "projectPath": "C:\\Users\\doini\\3rd semester\\3rd_semester_exercises-main\\news-api\\infrastructure\\infrastructure.csproj",
+        "packagesPath": "C:\\Users\\doini\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\doini\\3rd semester\\3rd_semester_exercises-main\\news-api\\infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/simko/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\doini\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -63,34 +65,36 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.100-preview.5.23303.2/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "/Users/simko/Desktop/Desktop/Development/news-api/service/service.csproj": {
+    "C:\\Users\\doini\\3rd semester\\3rd_semester_exercises-main\\news-api\\service\\service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/simko/Desktop/Desktop/Development/news-api/service/service.csproj",
+        "projectUniqueName": "C:\\Users\\doini\\3rd semester\\3rd_semester_exercises-main\\news-api\\service\\service.csproj",
         "projectName": "service",
-        "projectPath": "/Users/simko/Desktop/Desktop/Development/news-api/service/service.csproj",
-        "packagesPath": "/Users/simko/.nuget/packages/",
-        "outputPath": "/Users/simko/Desktop/Desktop/Development/news-api/service/obj/",
+        "projectPath": "C:\\Users\\doini\\3rd semester\\3rd_semester_exercises-main\\news-api\\service\\service.csproj",
+        "packagesPath": "C:\\Users\\doini\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\doini\\3rd semester\\3rd_semester_exercises-main\\news-api\\service\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/simko/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\doini\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "/Users/simko/Desktop/Desktop/Development/news-api/infrastructure/infrastructure.csproj": {
-                "projectPath": "/Users/simko/Desktop/Desktop/Development/news-api/infrastructure/infrastructure.csproj"
+              "C:\\Users\\doini\\3rd semester\\3rd_semester_exercises-main\\news-api\\infrastructure\\infrastructure.csproj": {
+                "projectPath": "C:\\Users\\doini\\3rd semester\\3rd_semester_exercises-main\\news-api\\infrastructure\\infrastructure.csproj"
               }
             }
           }
@@ -120,7 +124,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.100-preview.5.23303.2/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }

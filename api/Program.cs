@@ -25,6 +25,12 @@ builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
+var frontEndRelativePath = "./../frontend/www";
+builder.Services.AddSpaStaticFiles(conf => conf.RootPath = frontEndRelativePath);
+
+
+
+
 builder.Services.AddCors(options =>
 {
     options.AddPolicy("AllowOrigin",
@@ -47,6 +53,12 @@ app.UseCors(options =>
         .AllowAnyMethod()
         .AllowAnyHeader()
         .AllowCredentials();
+});
+
+app.UseSpaStaticFiles();
+app.UseSpa(conf =>
+{
+    conf.Options.SourcePath = frontEndRelativePath;
 });
 
 app.MapControllers();
