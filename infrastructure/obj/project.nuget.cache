@@ -1,12 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "YWr3clrBEb2ORIVSQ7WHZywlzHl/1O9mJZ9l5fOuTTwvwyyO9XshAUTwHDX+8AqYzzIojitzPXdrCWlbOE92Qg==",
+  "dgSpecHash": "zS7hQ8XHwY2aaDJ8MZp9HEmkZLrhttcySd/wMICbjfN3XvhrOhz8B3nYYw27qUIZGHquoMm+HH2nlYZ8T5M7Yg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\doini\\3rd semester\\3rd_semester_exercises-main\\news-api\\infrastructure\\infrastructure.csproj",
+  "projectFilePath": "/Users/simko/Desktop/news-api/infrastructure/infrastructure.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\doini\\.nuget\\packages\\dapper\\2.0.151\\dapper.2.0.151.nupkg.sha512",
-    "C:\\Users\\doini\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
-    "C:\\Users\\doini\\.nuget\\packages\\npgsql\\8.0.0-preview.4\\npgsql.8.0.0-preview.4.nupkg.sha512"
+    "/Users/simko/.nuget/packages/dapper/2.0.151/dapper.2.0.151.nupkg.sha512",
+    "/Users/simko/.nuget/packages/microsoft.extensions.logging.abstractions/6.0.0/microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "/Users/simko/.nuget/packages/npgsql/8.0.0-preview.4/npgsql.8.0.0-preview.4.nupkg.sha512"
   ],
   "logs": []
 }

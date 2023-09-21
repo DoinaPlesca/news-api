@@ -79,44 +79,86 @@ C:/Users/doini/3rd semester/Home_Work_Doina/articles_web_api/api/bin/Debug/net7.
 /Users/simko/Desktop/Desktop/Development/news-api/api/obj/Debug/net7.0/api.pdb
 /Users/simko/Desktop/Desktop/Development/news-api/api/obj/Debug/net7.0/api.genruntimeconfig.cache
 /Users/simko/Desktop/Desktop/Development/news-api/api/obj/Debug/net7.0/ref/api.dll
-C:\Users\doini\3rd semester\3rd_semester_exercises-main\news-api\api\bin\Debug\net7.0\appsettings.Development.json
-C:\Users\doini\3rd semester\3rd_semester_exercises-main\news-api\api\bin\Debug\net7.0\appsettings.json
-C:\Users\doini\3rd semester\3rd_semester_exercises-main\news-api\api\bin\Debug\net7.0\api.exe
-C:\Users\doini\3rd semester\3rd_semester_exercises-main\news-api\api\bin\Debug\net7.0\api.deps.json
-C:\Users\doini\3rd semester\3rd_semester_exercises-main\news-api\api\bin\Debug\net7.0\api.runtimeconfig.json
-C:\Users\doini\3rd semester\3rd_semester_exercises-main\news-api\api\bin\Debug\net7.0\api.dll
-C:\Users\doini\3rd semester\3rd_semester_exercises-main\news-api\api\bin\Debug\net7.0\api.pdb
-C:\Users\doini\3rd semester\3rd_semester_exercises-main\news-api\api\bin\Debug\net7.0\Dapper.dll
-C:\Users\doini\3rd semester\3rd_semester_exercises-main\news-api\api\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
-C:\Users\doini\3rd semester\3rd_semester_exercises-main\news-api\api\bin\Debug\net7.0\Microsoft.OpenApi.dll
-C:\Users\doini\3rd semester\3rd_semester_exercises-main\news-api\api\bin\Debug\net7.0\Npgsql.dll
-C:\Users\doini\3rd semester\3rd_semester_exercises-main\news-api\api\bin\Debug\net7.0\Npgsql.DependencyInjection.dll
-C:\Users\doini\3rd semester\3rd_semester_exercises-main\news-api\api\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
-C:\Users\doini\3rd semester\3rd_semester_exercises-main\news-api\api\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
-C:\Users\doini\3rd semester\3rd_semester_exercises-main\news-api\api\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
-C:\Users\doini\3rd semester\3rd_semester_exercises-main\news-api\api\bin\Debug\net7.0\infrastructure.dll
-C:\Users\doini\3rd semester\3rd_semester_exercises-main\news-api\api\bin\Debug\net7.0\service.dll
-C:\Users\doini\3rd semester\3rd_semester_exercises-main\news-api\api\bin\Debug\net7.0\service.pdb
-C:\Users\doini\3rd semester\3rd_semester_exercises-main\news-api\api\bin\Debug\net7.0\infrastructure.pdb
-C:\Users\doini\3rd semester\3rd_semester_exercises-main\news-api\api\obj\Debug\net7.0\api.csproj.AssemblyReference.cache
-C:\Users\doini\3rd semester\3rd_semester_exercises-main\news-api\api\obj\Debug\net7.0\api.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\doini\3rd semester\3rd_semester_exercises-main\news-api\api\obj\Debug\net7.0\api.AssemblyInfoInputs.cache
-C:\Users\doini\3rd semester\3rd_semester_exercises-main\news-api\api\obj\Debug\net7.0\api.AssemblyInfo.cs
-C:\Users\doini\3rd semester\3rd_semester_exercises-main\news-api\api\obj\Debug\net7.0\api.csproj.CoreCompileInputs.cache
-C:\Users\doini\3rd semester\3rd_semester_exercises-main\news-api\api\obj\Debug\net7.0\api.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\doini\3rd semester\3rd_semester_exercises-main\news-api\api\obj\Debug\net7.0\api.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\doini\3rd semester\3rd_semester_exercises-main\news-api\api\obj\Debug\net7.0\staticwebassets\msbuild.api.Microsoft.AspNetCore.StaticWebAssets.props
-C:\Users\doini\3rd semester\3rd_semester_exercises-main\news-api\api\obj\Debug\net7.0\staticwebassets\msbuild.build.api.props
-C:\Users\doini\3rd semester\3rd_semester_exercises-main\news-api\api\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.api.props
-C:\Users\doini\3rd semester\3rd_semester_exercises-main\news-api\api\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.api.props
-C:\Users\doini\3rd semester\3rd_semester_exercises-main\news-api\api\obj\Debug\net7.0\staticwebassets.pack.json
-C:\Users\doini\3rd semester\3rd_semester_exercises-main\news-api\api\obj\Debug\net7.0\staticwebassets.build.json
-C:\Users\doini\3rd semester\3rd_semester_exercises-main\news-api\api\obj\Debug\net7.0\staticwebassets.development.json
-C:\Users\doini\3rd semester\3rd_semester_exercises-main\news-api\api\obj\Debug\net7.0\scopedcss\bundle\api.styles.css
-C:\Users\doini\3rd semester\3rd_semester_exercises-main\news-api\api\obj\Debug\net7.0\api.csproj.CopyComplete
-C:\Users\doini\3rd semester\3rd_semester_exercises-main\news-api\api\obj\Debug\net7.0\api.dll
-C:\Users\doini\3rd semester\3rd_semester_exercises-main\news-api\api\obj\Debug\net7.0\refint\api.dll
-C:\Users\doini\3rd semester\3rd_semester_exercises-main\news-api\api\obj\Debug\net7.0\api.pdb
-C:\Users\doini\3rd semester\3rd_semester_exercises-main\news-api\api\obj\Debug\net7.0\api.genruntimeconfig.cache
-C:\Users\doini\3rd semester\3rd_semester_exercises-main\news-api\api\obj\Debug\net7.0\ref\api.dll
-C:\Users\doini\3rd semester\3rd_semester_exercises-main\news-api\api\bin\Debug\net7.0\Microsoft.AspNetCore.SpaServices.Extensions.dll
+C:/Users/doini/3rd semester/3rd_semester_exercises-main/news-api/api/bin/Debug/net7.0/appsettings.Development.json
+C:/Users/doini/3rd semester/3rd_semester_exercises-main/news-api/api/bin/Debug/net7.0/appsettings.json
+C:/Users/doini/3rd semester/3rd_semester_exercises-main/news-api/api/bin/Debug/net7.0/api.exe
+C:/Users/doini/3rd semester/3rd_semester_exercises-main/news-api/api/bin/Debug/net7.0/api.deps.json
+C:/Users/doini/3rd semester/3rd_semester_exercises-main/news-api/api/bin/Debug/net7.0/api.runtimeconfig.json
+C:/Users/doini/3rd semester/3rd_semester_exercises-main/news-api/api/bin/Debug/net7.0/api.dll
+C:/Users/doini/3rd semester/3rd_semester_exercises-main/news-api/api/bin/Debug/net7.0/api.pdb
+C:/Users/doini/3rd semester/3rd_semester_exercises-main/news-api/api/bin/Debug/net7.0/Dapper.dll
+C:/Users/doini/3rd semester/3rd_semester_exercises-main/news-api/api/bin/Debug/net7.0/Microsoft.AspNetCore.OpenApi.dll
+C:/Users/doini/3rd semester/3rd_semester_exercises-main/news-api/api/bin/Debug/net7.0/Microsoft.OpenApi.dll
+C:/Users/doini/3rd semester/3rd_semester_exercises-main/news-api/api/bin/Debug/net7.0/Npgsql.dll
+C:/Users/doini/3rd semester/3rd_semester_exercises-main/news-api/api/bin/Debug/net7.0/Npgsql.DependencyInjection.dll
+C:/Users/doini/3rd semester/3rd_semester_exercises-main/news-api/api/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
+C:/Users/doini/3rd semester/3rd_semester_exercises-main/news-api/api/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+C:/Users/doini/3rd semester/3rd_semester_exercises-main/news-api/api/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+C:/Users/doini/3rd semester/3rd_semester_exercises-main/news-api/api/bin/Debug/net7.0/infrastructure.dll
+C:/Users/doini/3rd semester/3rd_semester_exercises-main/news-api/api/bin/Debug/net7.0/service.dll
+C:/Users/doini/3rd semester/3rd_semester_exercises-main/news-api/api/bin/Debug/net7.0/service.pdb
+C:/Users/doini/3rd semester/3rd_semester_exercises-main/news-api/api/bin/Debug/net7.0/infrastructure.pdb
+C:/Users/doini/3rd semester/3rd_semester_exercises-main/news-api/api/obj/Debug/net7.0/api.csproj.AssemblyReference.cache
+C:/Users/doini/3rd semester/3rd_semester_exercises-main/news-api/api/obj/Debug/net7.0/api.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/doini/3rd semester/3rd_semester_exercises-main/news-api/api/obj/Debug/net7.0/api.AssemblyInfoInputs.cache
+C:/Users/doini/3rd semester/3rd_semester_exercises-main/news-api/api/obj/Debug/net7.0/api.AssemblyInfo.cs
+C:/Users/doini/3rd semester/3rd_semester_exercises-main/news-api/api/obj/Debug/net7.0/api.csproj.CoreCompileInputs.cache
+C:/Users/doini/3rd semester/3rd_semester_exercises-main/news-api/api/obj/Debug/net7.0/api.MvcApplicationPartsAssemblyInfo.cs
+C:/Users/doini/3rd semester/3rd_semester_exercises-main/news-api/api/obj/Debug/net7.0/api.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/doini/3rd semester/3rd_semester_exercises-main/news-api/api/obj/Debug/net7.0/staticwebassets/msbuild.api.Microsoft.AspNetCore.StaticWebAssets.props
+C:/Users/doini/3rd semester/3rd_semester_exercises-main/news-api/api/obj/Debug/net7.0/staticwebassets/msbuild.build.api.props
+C:/Users/doini/3rd semester/3rd_semester_exercises-main/news-api/api/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.api.props
+C:/Users/doini/3rd semester/3rd_semester_exercises-main/news-api/api/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.api.props
+C:/Users/doini/3rd semester/3rd_semester_exercises-main/news-api/api/obj/Debug/net7.0/staticwebassets.pack.json
+C:/Users/doini/3rd semester/3rd_semester_exercises-main/news-api/api/obj/Debug/net7.0/staticwebassets.build.json
+C:/Users/doini/3rd semester/3rd_semester_exercises-main/news-api/api/obj/Debug/net7.0/staticwebassets.development.json
+C:/Users/doini/3rd semester/3rd_semester_exercises-main/news-api/api/obj/Debug/net7.0/scopedcss/bundle/api.styles.css
+C:/Users/doini/3rd semester/3rd_semester_exercises-main/news-api/api/obj/Debug/net7.0/api.csproj.CopyComplete
+C:/Users/doini/3rd semester/3rd_semester_exercises-main/news-api/api/obj/Debug/net7.0/api.dll
+C:/Users/doini/3rd semester/3rd_semester_exercises-main/news-api/api/obj/Debug/net7.0/refint/api.dll
+C:/Users/doini/3rd semester/3rd_semester_exercises-main/news-api/api/obj/Debug/net7.0/api.pdb
+C:/Users/doini/3rd semester/3rd_semester_exercises-main/news-api/api/obj/Debug/net7.0/api.genruntimeconfig.cache
+C:/Users/doini/3rd semester/3rd_semester_exercises-main/news-api/api/obj/Debug/net7.0/ref/api.dll
+C:/Users/doini/3rd semester/3rd_semester_exercises-main/news-api/api/bin/Debug/net7.0/Microsoft.AspNetCore.SpaServices.Extensions.dll
+/Users/simko/Desktop/news-api/api/bin/Debug/net7.0/appsettings.Development.json
+/Users/simko/Desktop/news-api/api/bin/Debug/net7.0/appsettings.json
+/Users/simko/Desktop/news-api/api/bin/Debug/net7.0/api
+/Users/simko/Desktop/news-api/api/bin/Debug/net7.0/api.deps.json
+/Users/simko/Desktop/news-api/api/bin/Debug/net7.0/api.runtimeconfig.json
+/Users/simko/Desktop/news-api/api/bin/Debug/net7.0/api.dll
+/Users/simko/Desktop/news-api/api/bin/Debug/net7.0/api.pdb
+/Users/simko/Desktop/news-api/api/bin/Debug/net7.0/Dapper.dll
+/Users/simko/Desktop/news-api/api/bin/Debug/net7.0/Microsoft.AspNetCore.OpenApi.dll
+/Users/simko/Desktop/news-api/api/bin/Debug/net7.0/Microsoft.AspNetCore.SpaServices.Extensions.dll
+/Users/simko/Desktop/news-api/api/bin/Debug/net7.0/Microsoft.OpenApi.dll
+/Users/simko/Desktop/news-api/api/bin/Debug/net7.0/Npgsql.dll
+/Users/simko/Desktop/news-api/api/bin/Debug/net7.0/Npgsql.DependencyInjection.dll
+/Users/simko/Desktop/news-api/api/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/simko/Desktop/news-api/api/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/simko/Desktop/news-api/api/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/simko/Desktop/news-api/api/bin/Debug/net7.0/infrastructure.dll
+/Users/simko/Desktop/news-api/api/bin/Debug/net7.0/service.dll
+/Users/simko/Desktop/news-api/api/bin/Debug/net7.0/service.pdb
+/Users/simko/Desktop/news-api/api/bin/Debug/net7.0/infrastructure.pdb
+/Users/simko/Desktop/news-api/api/obj/Debug/net7.0/api.csproj.AssemblyReference.cache
+/Users/simko/Desktop/news-api/api/obj/Debug/net7.0/api.GeneratedMSBuildEditorConfig.editorconfig
+/Users/simko/Desktop/news-api/api/obj/Debug/net7.0/api.AssemblyInfoInputs.cache
+/Users/simko/Desktop/news-api/api/obj/Debug/net7.0/api.AssemblyInfo.cs
+/Users/simko/Desktop/news-api/api/obj/Debug/net7.0/api.csproj.CoreCompileInputs.cache
+/Users/simko/Desktop/news-api/api/obj/Debug/net7.0/api.MvcApplicationPartsAssemblyInfo.cs
+/Users/simko/Desktop/news-api/api/obj/Debug/net7.0/api.MvcApplicationPartsAssemblyInfo.cache
+/Users/simko/Desktop/news-api/api/obj/Debug/net7.0/api.sourcelink.json
+/Users/simko/Desktop/news-api/api/obj/Debug/net7.0/staticwebassets/msbuild.api.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/simko/Desktop/news-api/api/obj/Debug/net7.0/staticwebassets/msbuild.build.api.props
+/Users/simko/Desktop/news-api/api/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.api.props
+/Users/simko/Desktop/news-api/api/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.api.props
+/Users/simko/Desktop/news-api/api/obj/Debug/net7.0/staticwebassets.pack.json
+/Users/simko/Desktop/news-api/api/obj/Debug/net7.0/staticwebassets.build.json
+/Users/simko/Desktop/news-api/api/obj/Debug/net7.0/staticwebassets.development.json
+/Users/simko/Desktop/news-api/api/obj/Debug/net7.0/scopedcss/bundle/api.styles.css
+/Users/simko/Desktop/news-api/api/obj/Debug/net7.0/api.csproj.CopyComplete
+/Users/simko/Desktop/news-api/api/obj/Debug/net7.0/api.dll
+/Users/simko/Desktop/news-api/api/obj/Debug/net7.0/refint/api.dll
+/Users/simko/Desktop/news-api/api/obj/Debug/net7.0/api.pdb
+/Users/simko/Desktop/news-api/api/obj/Debug/net7.0/api.genruntimeconfig.cache
+/Users/simko/Desktop/news-api/api/obj/Debug/net7.0/ref/api.dll

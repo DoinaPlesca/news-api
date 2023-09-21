@@ -1,4 +1,5 @@
 using api.Filters;
+using api.Helpers;
 using api.TransferModels;
 using infrastructure.DataModels;
 using infrastructure.QueryModels;
@@ -18,18 +19,21 @@ public class ArticlesController : ControllerBase
 {
     private readonly ILogger<ArticlesController> _logger;
     private readonly ArticlesService _articlesService;
+    private readonly ResponseHelper _response;
 
-    public ArticlesController(ILogger<ArticlesController> logger,ArticlesService articlesService)
+    public ArticlesController(ILogger<ArticlesController> logger,ArticlesService articlesService, ResponseHelper response)
     {
         _logger = logger;
         _articlesService = articlesService;
+        _response = response;
     }
     
     [HttpGet]
     [Route("/api/feed")]
-    public IEnumerable<ArticleFeedQuery> GetArticlesForFeed() // TODO: Changed to GetArticlesForFeed (this is better naming convention :) )
+    public ResponseDto GetArticlesForFeed() 
     { 
-        return _articlesService.GetArticlesForFeed();
+        return _response.Success(HttpContext, 200, "Articles fetched successfully",
+            _articlesService.GetArticlesForFeed());
     }
     [HttpGet]
     [ValidateModel]
